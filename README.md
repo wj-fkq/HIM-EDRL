@@ -8,5 +8,8 @@ pip install -r requirements.txt
 
 ### Basic Usage
 ```
-python IM.py
+python IM.py --dataset Restaurant-Rev --seed_size 40
 ```
+
+### Datas
+The data/ folder contains the dataset used in the experiment.
